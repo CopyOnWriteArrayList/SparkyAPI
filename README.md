@@ -29,3 +29,21 @@ and for a specific amount of ticks (NOTE: 20 ticks = 1 second)
 
 SparkyAPI.resetExempt(Player player) - Resets the players exempt ticks
 ```
+
+Maven:
+```xml
+   <repositories>
+        <repository>
+            <id>funkemunky-releases</id>
+            <url>https://nexus.funkemunky.cc/content/repositories/releases/</url>
+        </repository>
+    </repositories>
+
+    <dependencies>
+        <dependency>
+            <groupId>ac.sparky</groupId>
+            <artifactId>API</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+    </dependencies>
+```
