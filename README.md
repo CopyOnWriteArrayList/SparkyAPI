@@ -1,6 +1,9 @@
 # SparkyAPI
 API for Sparky Anticheat
 #
+
+!! THIS API IS CURRENTLY DEPRECATED, IT WILL NOT WORK WITH THE CURRENT VERSION OF SPARKY, PLEASE WAIT UNTIL ITS RECODED !!
+
 For developers:
 This API uses reflection because of my protection, don't abuse call theses methods or it may cause lag
 #
