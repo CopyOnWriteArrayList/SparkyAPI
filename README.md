@@ -9,7 +9,7 @@ This API uses reflection because of my protection, don't abuse call theses metho
 #
 Documentation:
 ```
-SparkyAPI.isAntichetEnabled() - Returns a boolean if the anticheat is enabled or not
+SparkyAPI.isAnticheatEnabled() - Returns a boolean if the anticheat is enabled or not
 
 SparkyAPI.setAnticheatEnabled(boolean enabled) - Sets the state for the anticheat being enabled or not
 
