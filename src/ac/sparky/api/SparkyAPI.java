@@ -6,7 +6,7 @@ import org.bukkit.entity.Player;
  * Created on 26/07/2020 Package ac.sparky.api
  */
 public class SparkyAPI {
-    public static boolean isAntichetEnabled() {
+    public static boolean isAnticheatEnabled() {
         return false;
     }
 
